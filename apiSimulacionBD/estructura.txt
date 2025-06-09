@@ -1,0 +1,9 @@
+GET /usuarios → Obtener la lista de usuarios
+
+POST /usuarios → Crear un nuevo usuario
+
+GET /usuarios/:id → Obtener un usuario por ID
+
+DELETE /usuarios/:id → Eliminar un usuario por ID
+
+PUT / usuario/:id -> actulizar usuario por el id
